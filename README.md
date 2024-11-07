@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sram1445
+- 👋 Hi, I’m @SriramYatam
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on projects on Artificial Intelligence 
